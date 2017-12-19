@@ -1,0 +1,33 @@
+= Derivatives in cryptomarket
+Anna FROLOVA, Oxana USHAKOVA 
+:feelpp: Feel++
+:stem: latexmath
+:toc:
+
+== **Plan** 
+
+* Cryctocurrency Market
+
+** Currencies and Price evolution (max,min,time)
+ 
+** Technical analysis
+** Volatility analysis
+
+
+* Pricing a cryptocurrency
+
+** Trading/Mining 
+** Pricing issues
+
+* Derivative instruments: pros and cons
+
+*** swaps
+*** futures/FRA
+*** options
+
+*MAGIC
+
+
+
+
+
